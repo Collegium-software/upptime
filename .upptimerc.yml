@@ -16,8 +16,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://app.collegiumbuilt.com/logo.svg
-  faviconSvg: https://app.collegiumbuilt.com/favicon.svg
-  # name: Collegium
+  faviconSvg: https://app.collegiumbuilt.com/images/favicon.png
+  name: Collegium
   introTitle: "A Turnkey Real Estate Development Platform."
   introMessage: This is a status page which uses **real-time** data to ensure high availability
   navbar:
