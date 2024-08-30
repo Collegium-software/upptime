@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 177,
-    "timeWeek": 177,
-    "timeMonth": 177,
-    "timeYear": 177,
+    "time": 169,
+    "timeDay": 169,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 211,
-    "timeWeek": 211,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "time": 215,
+    "timeDay": 215,
+    "timeWeek": 215,
+    "timeMonth": 215,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
     "name": "test",
-    "url": "https://collegiumbuiltz.com",
-    "icon": "https://icons.duckduckgo.com/ip3/collegiumbuiltz.com.ico",
+    "url": "https://collegiumbuilt.com",
+    "icon": "https://icons.duckduckgo.com/ip3/collegiumbuilt.com.ico",
     "slug": "test",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 122,
-    "timeDay": 122,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "time": 124,
+    "timeDay": 124,
+    "timeWeek": 124,
+    "timeMonth": 124,
+    "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-08-30": 94
+      "2024-08-30": 97
     }
   }
 ]
