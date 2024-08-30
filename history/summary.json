@@ -37,22 +37,22 @@
   },
   {
     "name": "test",
-    "url": "https://collegiumbuiltz.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/collegiumbuiltz.com.ico",
+    "url": "https://collegiumbuilt.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/collegiumbuilt.com.ico",
     "slug": "test",
-    "status": "down",
-    "uptime": "26.71%",
-    "uptimeDay": "26.71%",
-    "uptimeWeek": "26.71%",
-    "uptimeMonth": "26.71%",
-    "uptimeYear": "26.71%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "status": "up",
+    "uptime": "26.28%",
+    "uptimeDay": "26.28%",
+    "uptimeWeek": "26.28%",
+    "uptimeMonth": "26.28%",
+    "uptimeYear": "26.28%",
+    "time": 122,
+    "timeDay": 122,
+    "timeWeek": 122,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-08-30": 94
+      "2024-08-30": 96
     }
   }
 ]
