@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 172,
-    "timeWeek": 172,
-    "timeMonth": 172,
-    "timeYear": 172,
+    "time": 182,
+    "timeDay": 182,
+    "timeWeek": 182,
+    "timeMonth": 182,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 203,
-    "timeWeek": 203,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "time": 218,
+    "timeDay": 218,
+    "timeWeek": 218,
+    "timeMonth": 218,
+    "timeYear": 218,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "test",
-    "url": "https://collegiumbuilt.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/collegiumbuilt.com.ico",
-    "slug": "test",
-    "status": "up",
-    "uptime": "26.28%",
-    "uptimeDay": "26.28%",
-    "uptimeWeek": "26.28%",
-    "uptimeMonth": "26.28%",
-    "uptimeYear": "26.28%",
-    "time": 122,
-    "timeDay": 122,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
-    "dailyMinutesDown": {
-      "2024-08-30": 96
-    }
   }
 ]
