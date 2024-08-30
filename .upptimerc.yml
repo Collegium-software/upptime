@@ -28,3 +28,10 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+notifications:
+  - type: opsgenie
+    apiKey: ${{ secrets.OPSGENIE_API_KEY }}
+    priority: P1
+    responders:
+      - type: team
+        name: "Oarsmen"
