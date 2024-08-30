@@ -3,12 +3,12 @@ owner: Collegium-software # Your GitHub organization or username, where this rep
 repo: upptime # The name of this repository
 
 sites:
-  - name: Collegium App
+  - name: Collegium App (app.collegiumbuilt.com)
     url: https://app.collegiumbuilt.com
-  - name: Collegium Site
+  - name: Collegium Site (collegiumbuilt.com)
     url: https://collegiumbuilt.com
   - name: test
-    url: https://collegiumbuilty.com/
+    url: https://collegiumbuilt.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
