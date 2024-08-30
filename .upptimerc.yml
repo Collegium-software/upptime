@@ -8,7 +8,7 @@ sites:
   - name: Collegium Site (collegiumbuilt.com)
     url: https://collegiumbuilt.com
   - name: test
-    url: https://collegiumbuiltz.com/
+    url: https://collegiumbuilt.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,10 +29,3 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-notifications:
-  - type: opsgenie
-    apiKey: ${{ secrets.OPSGENIE_API_KEY }}
-    priority: P1
-    responders:
-      - type: team
-        name: "Oarsmen"
