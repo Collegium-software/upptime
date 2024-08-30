@@ -7,6 +7,8 @@ sites:
     url: https://app.collegiumbuilt.com
   - name: Collegium Site
     url: https://collegiumbuilt.com
+  - name: test
+    url: https://collegiumbuiltz.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,9 +16,10 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://app.collegiumbuilt.com/logo.svg
-  name: Collegium
-  introTitle: "**Collegium** A Turnkey Real Estate Development Platform."
-  introMessage: This is a status page which uses **real-time** data
+  faviconSvg: https://app.collegiumbuilt.com/favicon.svg
+  # name: Collegium
+  introTitle: "A Turnkey Real Estate Development Platform."
+  introMessage: This is a status page which uses **real-time** data to ensure high availability
   navbar:
     - title: Status
       href: /upptime
