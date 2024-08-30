@@ -8,7 +8,7 @@ sites:
   - name: Collegium Site (collegiumbuilt.com)
     url: https://collegiumbuilt.com
   - name: test
-    url: https://collegiumbuiltz.com/
+    url: https://collegiumbuilt.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
