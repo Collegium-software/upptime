@@ -1,22 +1,22 @@
 [
   {
     "name": "Collegium App (app.collegiumbuilt.com)",
-    "url": "https://app.collegiumbuilty.com",
-    "icon": "https://icons.duckduckgo.com/ip3/app.collegiumbuilty.com.ico",
+    "url": "https://app.collegiumbuilt.com",
+    "icon": "https://icons.duckduckgo.com/ip3/app.collegiumbuilt.com.ico",
     "slug": "collegium-app-app-collegiumbuilt-com",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 187,
-    "timeDay": 202,
-    "timeWeek": 191,
-    "timeMonth": 192,
-    "timeYear": 187,
+    "time": 186,
+    "timeDay": 193,
+    "timeWeek": 188,
+    "timeMonth": 191,
+    "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-12-20": 366
+      "2024-12-20": 368
     }
   },
   {
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.78%",
     "time": 226,
-    "timeDay": 224,
-    "timeWeek": 229,
-    "timeMonth": 214,
+    "timeDay": 218,
+    "timeWeek": 225,
+    "timeMonth": 213,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2024-12-20": 350
