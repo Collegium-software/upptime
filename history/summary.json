@@ -5,28 +5,28 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.collegiumbuiltv.com.ico",
     "slug": "collegium-app-app-collegiumbuilt-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 186,
     "timeDay": 194,
     "timeWeek": 182,
     "timeMonth": 190,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-12-20": 0
+      "2024-12-20": 35
     }
   },
   {
     "name": "Collegium Site (collegiumbuilt.com)",
-    "url": "https://collegiumbuilt.com",
-    "icon": "https://icons.duckduckgo.com/ip3/collegiumbuilt.com.ico",
+    "url": "https://collegiumbuilty.com",
+    "icon": "https://icons.duckduckgo.com/ip3/collegiumbuilty.com.ico",
     "slug": "collegium-site-collegiumbuilt-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 222,
     "timeMonth": 212,
     "timeYear": 226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-20": 0
+    }
   }
 ]
