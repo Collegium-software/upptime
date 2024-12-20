@@ -4,9 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Collegium App (app.collegiumbuilt.com)
-    url: https://app.collegiumbuilt.com
+    url: https://app.collegiumbuilty.com
   - name: Collegium Site (collegiumbuilt.com)
-    url: https://collegiumbuilty.com
+    url: https://collegiumbuilt.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
