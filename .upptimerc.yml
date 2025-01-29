@@ -20,7 +20,7 @@ status-website:
   introMessage: This is a status page which uses **real-time** data to ensure high availability
   navbar:
     - title: Status
-      href: /upptime
+      href: /
     # - title: GitHub
     #   href: https://github.com/$OWNER/$REPO
 workflowSchedule:
